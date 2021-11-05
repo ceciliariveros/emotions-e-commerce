@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        Bienvenido a la e-commerce Emotions, mi nombre es Cecilia Riveros.
         </a>
       </header>
     </div>
